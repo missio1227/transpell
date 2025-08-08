@@ -4,4 +4,4 @@ beautifulsoup4
 py-hanspell
 setuptools
 wheel
-pip
+pip>=23.0
